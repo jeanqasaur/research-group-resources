@@ -8,6 +8,9 @@ I'm collecting resources for running computer science research groups. I'm curio
   * [Motivate Your Lab](http://www.the-scientist.com/?articles.view/articleNo/32082/title/Motivate-Your-Lab/)
   * [The researcher's guide to life, the universe, and everything](http://hci.stanford.edu/msb/gettingstarted/) - onboarding for Stanford HCI professor Michael Bernstein's group.
   * [The subtle art of managing a research group](http://matt-welsh.blogspot.com/2010/07/subtle-art-of-managing-research-group.html) (Matt Welsh, formerly Harvard)
+  * [Research Setup Wiki](https://researchsetup.github.io) (Eugene Wu, Columbia University)
+  * [Research Advising Philosophy: Motivation, Momentum, and Marketability](http://pgbovine.net/mmm-student-advising.htm) (Philip Guo, UCSD)
+  * [Deconstructing Research Advising](http://pgbovine.net/deconstructing-research-advising.htm) (Philip Guo, UCSD)
   
 ## Blogs and Websites
   * [Lab Carpentry](http://labcarpentry.com) - templates for setting up lab on-boarding pages and a "Dear Abby" style blog with answers to questions about managing a group.
