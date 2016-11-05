@@ -14,4 +14,3 @@ I'm collecting resources for running computer science research groups. I'm curio
 
 ## Books
   * [_Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty, Second Edition_](http://www.hhmi.org/developing-scientists/making-right-moves)
-  * [_The Responsibility Virus_](http://www.goodreads.com/book/show/255656.The_Responsibility_Virus)
