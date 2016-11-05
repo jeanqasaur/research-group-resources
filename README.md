@@ -2,7 +2,7 @@
 I'm collecting resources for running computer science research groups. I'm curious how it generalizes.
 
 ## Articles, Blog Posts, and Pages
-  * [Adapting Scrum to Managing a Research Group](http://www.cs.umd.edu/~mwh/papers/score.pdf) (Michael Hicks, UMD)
+  * [Adapting Scrum to Managing a Research Group](http://www.cs.umd.edu/~mwh/papers/score.pdf) (Mike Hicks and Jeff Foster, UMD)
   * [DePace Lab's "Lab Culture" Page](https://depace.med.harvard.edu/?page_id=408)
   * [In (tentative) praise of shopkeeper science (UPDATED)](https://dynamicecology.wordpress.com/2013/07/11/in-praise-of-shopkeeper-science/)
   * [Motivate Your Lab](http://www.the-scientist.com/?articles.view/articleNo/32082/title/Motivate-Your-Lab/)
