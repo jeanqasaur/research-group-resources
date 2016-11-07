@@ -12,7 +12,7 @@ I'm collecting resources for running computer science research groups. I'm curio
   * [Research Advising Philosophy: Motivation, Momentum, and Marketability](http://pgbovine.net/mmm-student-advising.htm) (Philip Guo, UCSD)
   * [Deconstructing Research Advising](http://pgbovine.net/deconstructing-research-advising.htm) (Philip Guo, UCSD)
   * [Career Trends: Running Your Lab](https://www.sciencemag.org/booklets/career-trends-running-your-lab)
-  * [Zen and the Art of Research Management](https://www.cl.cam.ac.uk/~jac22/zen-lab.txt)
+  * [Zen and the Art of Research Management](https://www.cl.cam.ac.uk/~jac22/zen-lab.txt) (John Naughton, Robert W. Taylor)
   
 ## Blogs and Websites
   * [Lab Carpentry](http://labcarpentry.com) - templates for setting up lab on-boarding pages and a "Dear Abby" style blog with answers to questions about managing a group.
