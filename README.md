@@ -18,6 +18,9 @@ I'm collecting resources for running computer science research groups. I'm curio
 ## Blogs and Websites
   * [Lab Carpentry](http://labcarpentry.com) - templates for setting up lab on-boarding pages and a "Dear Abby" style blog with answers to questions about managing a group.
 
+## Tools
+  * [Cloudstitch](https://www.cloudstitch.com/) - Create hassle free reactive webpages to power coursework on faculty website.
+
 ## Books
   * [_Making the Right Moves: A Practical Guide to Scientific Management for Postdocs and New Faculty, Second Edition_](http://www.hhmi.org/developing-scientists/making-right-moves)
   * [_The Craft of Research, Fourth Edition_](https://en.wikipedia.org/wiki/The_Craft_of_Research)
