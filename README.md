@@ -3,6 +3,7 @@ I'm collecting resources for running computer science research groups. I'm curio
 
 ## Articles, Blog Posts, and Pages
   * [Adapting Scrum to Managing a Research Group](http://www.cs.umd.edu/~mwh/papers/score.pdf) (Mike Hicks and Jeff Foster, UMD)
+  * [Career advice: how to lead a research team](https://www.timeshighereducation.com/news/career-advice-how-to-lead-a-research-team)
   * [Career Trends: Running Your Lab](https://www.sciencemag.org/booklets/career-trends-running-your-lab)
   * [Deconstructing Research Advising](http://pgbovine.net/deconstructing-research-advising.htm) (Philip Guo, UCSD)
   * [DePace Lab's "Lab Culture" Page](https://depace.med.harvard.edu/?page_id=408)
